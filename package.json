@@ -1,7 +1,7 @@
 {
-  "name": "just-tech-news",
+  "name": "just-tech-blog",
   "version": "1.0.0",
-  "description": "Just Tech News, Back-End Edition object-relational mapping (ORM)",
+  "description": "Tech-Blog, Back-End Edition object-relational mapping (ORM)",
   "main": "server.js",
   "scripts": {
     "test": "jest",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CharissaHollister/Just-Tech-News.git"
+    "url": "git+https://github.com/CharissaHollister/Tech-Blog.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CharissaHollister/Just-Tech-News/issues"
+    "url": "https://github.com/CharissaHollister/Tech-Blog/issues"
   },
-  "homepage": "https://github.com/CharissaHollister/Just-Tech-News#readme",
+  "homepage": "https://github.com/CharissaHollister/Tech-Blog#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.4",
