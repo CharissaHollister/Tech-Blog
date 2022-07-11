@@ -1,8 +1,5 @@
+{{> post-info post}}
 
-    {{!-- pulls in partial  --}}
-    {{> post-info post }}
-
-{{!-- expand the layout to include the form and comments --}}
 {{#if loggedIn}}
 <form class="comment-form">
   <div>
@@ -16,7 +13,6 @@
 </form>
 {{/if}}
 
-{{!-- pull in partial for comment  --}}
 {{> comments post.comments}}
 
 {{#if loggedIn}}

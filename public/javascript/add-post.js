@@ -1,7 +1,6 @@
 async function newFormHandler(event) {
   event.preventDefault();
 
-//   On form submission, this will grab the post-title and post-url values from the form and send them with a POST request to /api/posts.
   const title = document.querySelector('input[name="post-title"]').value;
   const post_url = document.querySelector('input[name="post-url"]').value;
 
