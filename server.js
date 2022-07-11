@@ -40,6 +40,6 @@ app.set("view engine", "handlebars");
 
 // turn on connection to db and server
 //!note: change force to true to reset tables
-sequelize.sync({ force: false }).then(() => {
+sequelize.sync({ force: true }).then(() => {
   app.listen(PORT, () => console.log("Now listening"));
 });
