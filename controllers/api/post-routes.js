@@ -109,6 +109,7 @@ router.put("/upvote", withAuth, (req, res) => {
     .then((updatedVoteData) => res.json(updatedVoteData))
     .catch((err) => {
       console.log(err);
+      //*crashes on second attempt to upvote
       res.status(500).json(err);
     });
 });
