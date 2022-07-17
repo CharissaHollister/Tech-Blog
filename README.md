@@ -4,11 +4,15 @@ Authored by Charissa Hollister 07/10/2022
 
 ## Description
 
-List notes and overall site features here
+Keep up to date with all the tech articles that are important to you and your companions. Once you log in you will have access to add new articles, comment on all posted articles, edit posts you’ve made previously and vote to show your support for the items you find most interesting. Casually perusing posts is allowed for those who prefer to not sign up. However, it is recommended to create an account to better interact and to have access to track your own posts and comments.  
 
-## Features
+## Instructions
 
-List
+Sign up for an account using an email(username) and password. Navigate to your dashboard, home page, and login/logout using the navigation menu at the top of the site. Post new articles, comment and vote on articles and edit these following the buttons and prompts provided.
+
+Note: Website links must be complete site address (i.e. https://www.amazon.com/)
+
+
 
 ## Website Access
 
@@ -17,7 +21,7 @@ https://stark-sea-34668.herokuapp.com/
 
 ### GitHub Repo:
 
-https://github.com/CharissaHollister/Tech-Blog
+https://github.com/CharissaHollister/Tech-Blog  
 
 ![ScreenShot](relative link to image)
 
