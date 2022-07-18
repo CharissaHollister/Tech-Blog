@@ -23,11 +23,17 @@ https://stark-sea-34668.herokuapp.com/
 
 https://github.com/CharissaHollister/Tech-Blog  
 
-![ScreenShot](relative link to image)
+![ScreenShot](./Screenshot.jpg)
 
 ## Future improvement opportunities
 
-List
+Better method for distinguishing open link versus open comments.  
+Ability to react instead of only upvote.  
+Ability to upvote a comment.  
+Show if you already upvoted.  
+A liked-page that includes all posts you have upvoted for quick reference.  
+Updated design with more eye appeal.  
+Update website link criteria to allow site links without http.  
 
 ### Minimum customer criteria
 
